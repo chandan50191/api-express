@@ -1,0 +1,342 @@
+{
+  "message": "",
+  "result": true,
+  "data": [
+    {
+      "empName": "Jon Ebbb",
+      "empId": 1330,
+      "empCode": "CT-451",
+      "empEmailId": "je@exo.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Sr Soft Eng"
+    },
+    {
+      "empName": "Jon E",
+      "empId": 1325,
+      "empCode": "CT-451",
+      "empEmailId": "je@exo.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Sr Soft Eng"
+    },
+    {
+      "empName": "Jon B",
+      "empId": 1321,
+      "empCode": "CT-421",
+      "empEmailId": "jb@exo.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Team Lead"
+    },
+    {
+      "empName": "John Derrick",
+      "empId": 1319,
+      "empCode": "CT-411",
+      "empEmailId": "j@exa.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Manager"
+    },
+    {
+      "empName": "vilas shinde",
+      "empId": 1314,
+      "empCode": "CT-421",
+      "empEmailId": "vilas@gmail.com",
+      "empDesignation": "Ben",
+      "role": "string"
+    },
+    {
+      "empName": "Ashish Awasthi",
+      "empId": 1312,
+      "empCode": "CT-401",
+      "empEmailId": "EXO011",
+      "empDesignation": "UI/UX Developer",
+      "role": "Manager"
+    },
+    {
+      "empName": "Ashish Awasthi",
+      "empId": 1311,
+      "empCode": "CT-391",
+      "empEmailId": "EXO010",
+      "empDesignation": "UI/UX Developer",
+      "role": "Manager"
+    },
+    {
+      "empName": "Ashish Awasthi",
+      "empId": 1310,
+      "empCode": "CT-381",
+      "empEmailId": "EXO010",
+      "empDesignation": "UI/UX Developer",
+      "role": "Manager"
+    },
+    {
+      "empName": "Sham Shinde",
+      "empId": 1301,
+      "empCode": "CT-371",
+      "empEmailId": "sham@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "string",
+      "empId": 1297,
+      "empCode": "CT-371",
+      "empEmailId": "xyz@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Manager"
+    },
+    {
+      "empName": "string",
+      "empId": 1296,
+      "empCode": "CT-361",
+      "empEmailId": "xyz@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Manager"
+    },
+    {
+      "empName": "Priyanka",
+      "empId": 1294,
+      "empCode": "CT-341",
+      "empEmailId": "rasalp1990@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "sham Shinde",
+      "empId": 1293,
+      "empCode": "CT-331",
+      "empEmailId": "sham@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Team Lead"
+    },
+    {
+      "empName": "sushil",
+      "empId": 1292,
+      "empCode": "CT-321",
+      "empEmailId": "sushil@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "Rama",
+      "empId": 1280,
+      "empCode": "CT-3621",
+      "empEmailId": "rama@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Team Lead"
+    },
+    {
+      "empName": "Pratiksha Katkar",
+      "empId": 1279,
+      "empCode": "CT-3621",
+      "empEmailId": "test12@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Manager"
+    },
+    {
+      "empName": "aaaaa",
+      "empId": 1269,
+      "empCode": "CT-3691",
+      "empEmailId": "abc12@gmail.com",
+      "empDesignation": "Ben",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "Sujata",
+      "empId": 1260,
+      "empCode": "CT-3641",
+      "empEmailId": "xyz112@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "Pankaj Kumar",
+      "empId": 1258,
+      "empCode": "CT-3641",
+      "empEmailId": "Pankaj@com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Team Lead"
+    },
+    {
+      "empName": "Akshay",
+      "empId": 1256,
+      "empCode": "CT-3621",
+      "empEmailId": "Akshay@gmail.com",
+      "empDesignation": "Ben",
+      "role": "Manager"
+    },
+    {
+      "empName": "Akshay",
+      "empId": 1254,
+      "empCode": "CT-3601",
+      "empEmailId": "Akshay@gmail.com",
+      "empDesignation": "Ben",
+      "role": "Manager"
+    },
+    {
+      "empName": "Akshay",
+      "empId": 1253,
+      "empCode": "CT-3591",
+      "empEmailId": "Akshay@gmail.com",
+      "empDesignation": "Ben",
+      "role": "Manager"
+    },
+    {
+      "empName": "samir pawar",
+      "empId": 1252,
+      "empCode": "CT-3581",
+      "empEmailId": "samirpawar123@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "samir pawar",
+      "empId": 1251,
+      "empCode": "CT-3571",
+      "empEmailId": "samirpawar234@gmail.com",
+      "empDesignation": "Ben",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "samir pawar",
+      "empId": 1250,
+      "empCode": "CT-3561",
+      "empEmailId": "samirpawar123@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "samir pawar",
+      "empId": 1249,
+      "empCode": "CT-3551",
+      "empEmailId": "samirpawar123@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "samir p",
+      "empId": 1248,
+      "empCode": "CT-3541",
+      "empEmailId": "samirp123@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "samir p",
+      "empId": 1247,
+      "empCode": "CT-3531",
+      "empEmailId": "samirp123@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "suraj pawar",
+      "empId": 1245,
+      "empCode": "CT-3511",
+      "empEmailId": "surajpawar123@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "Ramesh S kkk",
+      "empId": 1237,
+      "empCode": "CT-3461",
+      "empEmailId": "test@gmail.com",
+      "empDesignation": "Ben",
+      "role": "Manager"
+    },
+    {
+      "empName": "Nisha",
+      "empId": 1233,
+      "empCode": "CT-3431",
+      "empEmailId": "Nisha@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "Birendra",
+      "empId": 1232,
+      "empCode": "CT-3421",
+      "empEmailId": "bk@gmail.com",
+      "empDesignation": "Ben",
+      "role": "Manager"
+    },
+    {
+      "empName": "Priyanka Rasal",
+      "empId": 1226,
+      "empCode": "CT-3381",
+      "empEmailId": "rasalp1990@gmail.com",
+      "empDesignation": "UI/UX Developer",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "Ramesh S",
+      "empId": 1225,
+      "empCode": "CT-3371",
+      "empEmailId": "QQ@gmail.com",
+      "empDesignation": "Ben",
+      "role": "Team Lead"
+    },
+    {
+      "empName": "Rahul K",
+      "empId": 1223,
+      "empCode": "CT-3351",
+      "empEmailId": "rahul@gmail.com",
+      "empDesignation": "Ben",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "Suresh Kumaras",
+      "empId": 1221,
+      "empCode": "CT-3341",
+      "empEmailId": "suresh@gmail.com",
+      "empDesignation": "Ben",
+      "role": "Team Lead"
+    },
+    {
+      "empName": "Qw EMp",
+      "empId": 1219,
+      "empCode": "CT-3371",
+      "empEmailId": "qw@emp.com",
+      "empDesignation": "Ben",
+      "role": "Manager"
+    },
+    {
+      "empName": "Jane K",
+      "empId": 1217,
+      "empCode": "CT-3351",
+      "empEmailId": "jane@gmail.com",
+      "empDesignation": "Ben",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "Akask S",
+      "empId": 1214,
+      "empCode": "CT-3331",
+      "empEmailId": "Akask123@qw.com",
+      "empDesignation": "Ben",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "Akask S",
+      "empId": 1204,
+      "empCode": "CT-3311",
+      "empEmailId": "Akask@qw.com",
+      "empDesignation": "Ben",
+      "role": "Junior Developer"
+    },
+    {
+      "empName": "string",
+      "empId": 1196,
+      "empCode": "CT-3261",
+      "empEmailId": "chetan",
+      "empDesignation": "UI/UX Developer",
+      "role": "Manager"
+    },
+    {
+      "empName": "new name",
+      "empId": 1183,
+      "empCode": "CT-3181",
+      "empEmailId": "strings",
+      "empDesignation": "UI/UX Developer",
+      "role": "Manager"
+    }
+  ]
+}
